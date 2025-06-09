@@ -1,14 +1,14 @@
 {
-  "name": "@nymhq/errsync",
+  "name": "errsync",
   "version": "1.0.0",
   "description": "An error logger that reports to a remote endpoint",
-  "homepage": "https://github.com/nymhq/errsync#readme",
+  "homepage": "https://github.com/nafiuyakubu/errsync#readme",
   "bugs": {
-    "url": "https://github.com/nymhq/errsync/issues"
+    "url": "https://github.com/nafiuyakubu/errsync/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nymhq/errsync.git"
+    "url": "git+https://github.com/nafiuyakubu/errsync.git"
   },
   "license": "MIT",
   "author": "NYM Technologies Limited",
