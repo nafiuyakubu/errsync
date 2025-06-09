@@ -1,0 +1,50 @@
+{
+  "name": "@nymhq/errsync",
+  "version": "1.0.0",
+  "description": "An error logger that reports to a remote endpoint",
+  "homepage": "https://github.com/nymhq/errsync#readme",
+  "bugs": {
+    "url": "https://github.com/nymhq/errsync/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nymhq/errsync.git"
+  },
+  "license": "MIT",
+  "author": "NYM Technologies Limited",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "keywords": [
+    "logger",
+    "error",
+    "error-logging",
+    "exception",
+    "serverless",
+    "AWS",
+    "lambda",
+    "cloud-functions",
+    "error-reporting",
+    "monitoring",
+    "debugging",
+    "incident-management",
+    "logging-tool",
+    "application-monitoring",
+    "distributed-tracing",
+    "devops",
+    "api-errors",
+    "error-tracking",
+    "debugging-tools",
+    "nodejs",
+    "npm-package",
+    "analytics",
+    "performance-monitoring",
+    "reactive-programming",
+    "error-handling"
+  ]
+}
