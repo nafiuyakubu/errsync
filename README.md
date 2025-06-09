@@ -1,8 +1,8 @@
-# @nymhq/errsync
+# errsync
 
-> Lightweight remote error logger for Node.js, built by [NYM Technologies Limited](https://thisisnym.com)
+> Lightweight remote error logger for Node.js, built by [Nafiu Yakubu](#)
 
-`@nymhq/errsync` is a lightweight Node.js module that lets you send error logs to a remote endpoint (such as an FaaS/Lambda/Event Driven URL) for centralized error reporting and monitoring.
+`errsync` is a lightweight Node.js module that lets you send error logs to a remote endpoint (such as an FaaS/Lambda/Event Driven URL) for centralized error reporting and monitoring.
 
 ---
 
@@ -18,5 +18,5 @@
 ## 📦 Installation
 
 ```bash
-npm install @nymhq/errsync
+npm install errsync
 ```
